@@ -1,0 +1,1 @@
+run = "javac UWGBApplicationForm.java && java UWGBApplicationForm"
